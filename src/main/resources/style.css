@@ -1,0 +1,16 @@
+.button {
+    -fx-background-color: DarkBlue;
+    -fx-text-fill: White;
+    -fx-pref-width: 100px
+}
+
+#info-label {
+    -fx-text-fill: DarkRed;
+}
+
+#root {
+}
+
+#main-translator {
+    -fx-font-weight: bold;
+}
